@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Tools",
+        "id": "tools",
+        "children":
+        [
+            {"id":"times_format_menu","caption": "时间戳转换","command": "time_format"}
+        ]
+    }
+]
